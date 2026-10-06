@@ -1,0 +1,1 @@
+export default function Admin(){ return <div style={{padding:'20px', background:'#000', color:'white'}}>Redirecting... <meta httpEquiv='refresh' content='0; url=/' /></div> }
